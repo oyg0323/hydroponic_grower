@@ -83,3 +83,8 @@ Make sure to install the following libraries before uploading the code:
 ## Future Improvements
 
 - Remote monitoring function using a server using Raspberry Pi
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
